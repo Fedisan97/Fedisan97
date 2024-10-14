@@ -1,16 +1,13 @@
-## Hi there 👋
+# WORK
+### Java ingener
+>1. Java  
+>2. Docker
+>3. PostgreSQL
+>4. Git 
 
-<!--
-**Fedisan97/Fedisan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# about you 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Жена — это та, единственная и неповторимая вредная привычка, которая может бросить тебя сама!
+> ![Текст описания](https://memepedia.ru/wp-content/uploads/2020/10/polskaja-korova-mem.png)
