@@ -10,4 +10,4 @@
 
 
 > Жена — это та, единственная и неповторимая вредная привычка, которая может бросить тебя сама!
-> ![Текст описания](https://memepedia.ru/wp-content/uploads/2020/10/polskaja-korova-mem.png)
+ ![Текст описания](https://memepedia.ru/wp-content/uploads/2020/10/polskaja-korova-mem.png)
