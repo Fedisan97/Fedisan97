@@ -11,4 +11,4 @@
 
 >
  ![Текст описания](https://memepedia.ru/wp-content/uploads/2020/10/polskaja-korova-mem.png)
-(https://mypclife.ru/wp-content/uploads/2017/07/joinus-java.png)
+(https://gbsmarket.ru/wp-content/uploads/2022/10/java-logo.png)
