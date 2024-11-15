@@ -27,4 +27,4 @@
 
 I will be glad to receive any feedback and suggestions for improving my projects.
 >
- ![Example GIF](https://upload.wikimedia.org/wikipedia/ru/archive/6/6b/20210505175821%21NyanCat.gif)
+ ![Example GIF](https://i.pinimg.com/originals/f7/64/10/f76410086df1c7b9244bfb19b83a4d91.gif)
