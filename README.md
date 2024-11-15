@@ -9,7 +9,7 @@
 
 ## 📊 Statistics GitHub
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97)](https://github.com/anuraghazra)
+[![GitHub Streak](https://github-profile-trophies.vercel.app/?username=your_username)](https://github.com/ryo-ma)
 
 ## 📫 How to contact me
 
