@@ -1,26 +1,22 @@
-#  Привет Меня зовут [Alexander]
+#  My name is Alexander 
 
  **Java**, **C#**, **PostgreSQL**, **Git**, **Docker**. 
 
-- **Программирование:** Java, C#, PHP
-- **Базы данных:** PostgreSQL
-- **Контейнеризация:** Docker
-- **Версионный контроль:** Git
+- **Programming:** Java, C#, PHP
+- **Databases:** PostgreSQL
+- **Containerization:** Docker
+- **Version control:** Git
 
-## 📊 Статистика GitHub
+## 📊 Statistics GitHub
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical)
 
-## 📫 Как со мной связаться
+## 📫 How to contact me
 
 - **telegram**  @SashaL7
 
-
+I will be glad to receive any feedback and suggestions for improving my projects.
 ---
-
-Буду рад любому фидбеку и предложениям по улучшению моих проектов 
-
-
 >
  ![Текст описания](https://memepedia.ru/wp-content/uploads/2020/10/polskaja-korova-mem.png)
  
