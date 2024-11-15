@@ -15,7 +15,7 @@
 
 ## 📫 How to contact me
 
-- ![image](https://github.com/user-attachments/assets/fa7787bc-a289-4ad7-b825-6e0eb9a706eb)
+- ![Telegram](https://img.shields.io/badge/telegram-%23088?style=for-the-badge&logo=telegram&logoColor=white)
  **telegram**  @SashaL7
 
 I will be glad to receive any feedback and suggestions for improving my projects.
