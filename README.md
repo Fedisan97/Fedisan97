@@ -7,9 +7,9 @@
 - **Containerization:** Docker
 - **Version control:** Git
 
-<img src="https://ghchart.rshah.org/your_username" alt="Your contributions graph">
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/anuraghazra)
 
 ## 📫 How to contact me
 
