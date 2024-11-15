@@ -7,8 +7,8 @@
 - **Containerization:** Docker
 - **Version control:** Git
 
+<img src="https://ghchart.rshah.org/your_username" alt="Your contributions graph">
 
-[![trophy](https://github-profile-trophies.vercel.app/?username=your_username)](https://github.com/ryo-ma)
 
 
 ## 📫 How to contact me
