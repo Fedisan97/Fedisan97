@@ -21,7 +21,7 @@
 ## 🖥️ Operating system
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&height=30)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black&height=30)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&height=30)
 
 
 I will be glad to receive any feedback and suggestions for improving my projects.
