@@ -7,9 +7,9 @@
 - **Containerization:** Docker
 - **Version control:** Git
 
-## 📊 Statistics GitHub
 
-[![GitHub Streak](https://github-profile-trophies.vercel.app/?username=your_username)](https://github.com/ryo-ma)
+[![trophy](https://github-profile-trophies.vercel.app/?username=your_username)](https://github.com/ryo-ma)
+
 
 ## 📫 How to contact me
 
