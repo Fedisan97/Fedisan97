@@ -23,7 +23,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black&height=30)
 
 
----
-## I will be glad to receive any feedback and suggestions for improving my projects.
+
+I will be glad to receive any feedback and suggestions for improving my projects.
 >
  ![Example GIF](https://upload.wikimedia.org/wikipedia/ru/archive/6/6b/20210505175821%21NyanCat.gif)
