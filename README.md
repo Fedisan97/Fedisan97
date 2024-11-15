@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/Fedisan97)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97_github_username&layout=compact)](https://github.com/Fedisan97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&layout=compact)](https://github.com/Fedisan97)
 
 ## 📫 How to contact me
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&height=30)
