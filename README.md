@@ -9,8 +9,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fedisan97_username&theme=dark)](https://demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fedisan97&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/Fedisan97)
 
