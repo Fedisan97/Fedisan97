@@ -15,8 +15,7 @@
 
 ## 📫 How to contact me
 ![Telegram](https://img.shields.io/badge/telegram-%23088?style=for-the-badge&logo=telegram&logoColor=white)
-
-**telegram**  @SashaL7
+@SashaL7
 
 ## 🖥️ Operating system
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&height=30)
