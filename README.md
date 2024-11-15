@@ -21,4 +21,5 @@ I will be glad to receive any feedback and suggestions for improving my projects
 ---
 >
  ![Текст описания](https://memepedia.ru/wp-content/uploads/2020/10/polskaja-korova-mem.png)
- 
+
+ ![Example GIF](https://99px.ru/sstorage/86/2018/04/image_863004182258312236431.gif)
