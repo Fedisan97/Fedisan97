@@ -15,7 +15,8 @@
 
 ## 📫 How to contact me
 
-- **telegram**  @SashaL7
+- ![image](https://github.com/user-attachments/assets/fa7787bc-a289-4ad7-b825-6e0eb9a706eb)
+ **telegram**  @SashaL7
 
 I will be glad to receive any feedback and suggestions for improving my projects.
 
