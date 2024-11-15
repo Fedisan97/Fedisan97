@@ -21,4 +21,4 @@ I will be glad to receive any feedback and suggestions for improving my projects
 
 ---
 >
- ![Example GIF](https://99px.ru/sstorage/86/2018/04/image_863004182258312236431.gif)
+ ![Example GIF](https://upload.wikimedia.org/wikipedia/ru/archive/6/6b/20210505175821%21NyanCat.gif)
