@@ -7,9 +7,8 @@
 - **Containerization:** Docker
 - **Version control:** Git
 
-## 📊 Статистика GitHub
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97)](https://github.com/Fedisan97)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/Fedisan97)
 
