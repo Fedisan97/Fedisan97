@@ -9,7 +9,7 @@
 
 ## 📊 Statistics GitHub
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=radical)
 
 ## 📫 How to contact me
 
