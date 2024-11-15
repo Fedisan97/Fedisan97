@@ -11,6 +11,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fedisan97&theme=darcula&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=4&card_width=450)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97_github_username&hide=contribs&range=all_time)](https://github.com/your_github_username)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/Fedisan97)
 
 ## 📫 How to contact me
