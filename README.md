@@ -9,7 +9,7 @@
 
 ## 📊 Statistics GitHub
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fedisan97_username&theme=dark)](https://demolab.com)
 
 ## 📫 How to contact me
 
