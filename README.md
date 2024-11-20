@@ -25,6 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&height=30)
 
 
-I will be glad to receive any feedback and suggestions for improving my projects.
+## I will be glad to receive any feedback and suggestions for improving my projects.
 >
  ![Example GIF](https://i.pinimg.com/originals/f7/64/10/f76410086df1c7b9244bfb19b83a4d91.gif)
