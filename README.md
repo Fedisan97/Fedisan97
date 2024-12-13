@@ -10,7 +10,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedisan97&theme=graywhite&date_format=n%2Fj%5B%2FY%5D)(https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedisan97&theme=graywhite)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/Fedisan97)
 
