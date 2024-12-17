@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedisan97&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedisan97&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,4 +28,4 @@
 ## I will be glad to receive any feedback and suggestions for improving my projects.
 >
  ![Example GIF](https://i.pinimg.com/originals/f7/64/10/f76410086df1c7b9244bfb19b83a4d91.gif)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFedisan97&labelColor=%23d9e3f0&countColor=%23557575)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFedisan97)
+
