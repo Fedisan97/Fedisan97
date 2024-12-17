@@ -9,9 +9,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97)](https://github.com/Fedisan97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 How to contact me
