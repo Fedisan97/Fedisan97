@@ -9,12 +9,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFedisan97&labelColor=%23d9e3f0&countColor=%23557575)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFedisan97)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Fedisan97/Fedisan97?color=blueviolet)](https://github.com/Fedisan97)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFedisan97&labelColor=%23d9e3f0&countColor=%23557575)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFedisan97)
 ## 📫 How to contact me
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&height=30)
 
