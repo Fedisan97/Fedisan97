@@ -9,8 +9,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedisan97&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedisan97&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
