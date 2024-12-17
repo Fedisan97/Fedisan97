@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![trophy](https://github-profile-trophies.vercel.app/?username=Fedisan97)](https://github.com/Fedisan97?tab=repositories&q=&type=&language=all&sort=stars)
+[![Metrics](https://metrics.lecoq.io/Fedisan97?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&config.compact=true)](https://GitHub.com/Fedisan97)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
