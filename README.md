@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ![Fedisan97's Stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
