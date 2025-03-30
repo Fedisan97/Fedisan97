@@ -2,10 +2,8 @@
 
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-239120?style=flat&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
 
 ![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=gotham&show_icons=true&hide_border=true&layout=compact)
