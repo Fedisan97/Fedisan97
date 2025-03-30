@@ -13,8 +13,7 @@
 ![Fedisan97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fedisan97&theme=gotham&hide_border=true)
 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&height=30)
-
+Contact
 @SashaL7
 
 ## I will be glad to receive any feedback and suggestions for improving my projects.
