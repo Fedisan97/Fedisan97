@@ -1,6 +1,6 @@
 #  My name is Alexander 
 
-![Java](https://img.shields.io/badge/java-%230047AB.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%230047AB.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%230047AB.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230047AB.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%230047AB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
