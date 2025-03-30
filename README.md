@@ -8,9 +8,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
-![Fedisan97's Stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![Fedisan97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fedisan97&theme=gotham&hide_border=true)
+
+![Fedisan97's Stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&height=30)
