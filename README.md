@@ -13,7 +13,7 @@
 ![Fedisan97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fedisan97&theme=gotham&hide_border=true)
 
 
-Contact
+Contact Telegram
 @SashaL7
 
 ## I will be glad to receive any feedback and suggestions for improving my projects.
