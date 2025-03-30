@@ -1,11 +1,11 @@
 #  My name is Alexander 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white&color=%230047AB)
-![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=%230047AB)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&color=%230047AB)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white&color=%230047AB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&color=%230047AB)
-![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white&color=%230047AB)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=java&logoColor=white&label=Java&color=%230047AB)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white&label=C%23&color=%230047AB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&label=Kotlin&color=%230047AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&label=PostgreSQL&color=%230047AB)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white&label=Docker&color=%230047AB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&label=Git&color=%230047AB)
 
 
 
