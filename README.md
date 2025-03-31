@@ -1,6 +1,6 @@
 #  🕆 𝕸𝖞 𝖓𝖆𝖒𝖊 𝖎𝖘 𝕬𝖑𝖊𝖝𝖆𝖓𝖉𝖊𝖗 🕆
  
-<hr>
+<br>
   <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" style="filter: grayscale(100%) invert(1);" />
     <img width="12" />
