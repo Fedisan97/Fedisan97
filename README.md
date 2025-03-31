@@ -1,4 +1,4 @@
-#  My name is Alexander 
+#  𝕸𝖞 𝖓𝖆𝖒𝖊 𝖎𝖘 𝕬𝖑𝖊𝖝𝖆𝖓𝖉𝖊𝖗 
 
   <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" style="filter: grayscale(100%) invert(1);" />
@@ -17,10 +17,10 @@
 ![Fedisan97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fedisan97&theme=gotham&hide_border=true)
 
 
-Telegram
+𝕿𝖊𝖑𝖊𝖌𝖗𝖆𝖒
 @SashaL7
 
-## I will be glad to receive any feedback and suggestions for improving my projects.
+## 𝕴 𝖜𝖎𝖑𝖑 𝖇𝖊 𝖌𝖑𝖆𝖉 𝖙𝖔 𝖗𝖊𝖈𝖊𝖎𝖛𝖊 𝖆𝖓𝖞 𝖋𝖊𝖊𝖉𝖇𝖆𝖈𝖐 𝖆𝖓𝖉 𝖘𝖚𝖌𝖌𝖊𝖘𝖙𝖎𝖔𝖓𝖘 𝖋𝖔𝖗 𝖎𝖒𝖕𝖗𝖔𝖛𝖎𝖓𝖌 𝖒𝖞 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘.
 >
  ![Example GIF](https://i.pinimg.com/originals/f7/64/10/f76410086df1c7b9244bfb19b83a4d91.gif)
 
