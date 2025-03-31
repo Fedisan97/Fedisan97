@@ -1,5 +1,5 @@
 #  🕆 𝕸𝖞 𝖓𝖆𝖒𝖊 𝖎𝖘 𝕬𝖑𝖊𝖝𝖆𝖓𝖉𝖊𝖗 🕆
-
+  <br>
 
   <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" style="filter: grayscale(100%) invert(1);" />
@@ -10,7 +10,7 @@
     <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" title="Docker" style="filter: grayscale(100%) invert(1);" />
    </div>
-
+ <br>
 ![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
 ![Fedisan97's Stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
