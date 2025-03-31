@@ -23,9 +23,9 @@
 
 ## 🕆 𝕴 𝖜𝖎𝖑𝖑 𝖇𝖊 𝖌𝖑𝖆𝖉 𝖙𝖔 𝖗𝖊𝖈𝖊𝖎𝖛𝖊 𝖆𝖓𝖞 𝖋𝖊𝖊𝖉𝖇𝖆𝖈𝖐 𝖆𝖓𝖉 𝖘𝖚𝖌𝖌𝖊𝖘𝖙𝖎𝖔𝖓𝖘 𝖋𝖔𝖗 𝖎𝖒𝖕𝖗𝖔𝖛𝖎𝖓𝖌 𝖒𝖞 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘. 🕆
 
-  <br>
-   <a https://music.yandex.ru/playlists/ps.869476ae-5ddb-43d0-9aaf-b5c902f563f1> ☨ ♬ ☨  ♬ ☨  </a>
- <br>
+   <br>
+   <a href="https://music.yandex.ru/playlists/ps.869476ae-5ddb-43d0-9aaf-b5c902f563f1" ☨ ♬ ☨  ♬ ☨  </a>
+   <br>
  
  ![Example GIF](https://i.pinimg.com/originals/10/f5/58/10f558763a9846004ce1c39a5e6dc44b.gif)
 
