@@ -28,13 +28,10 @@
     </td>
   </tr>
 </table>
-   <hr>
+
    <a href="https://music.yandex.ru/playlists/ps.869476ae-5ddb-43d0-9aaf-b5c902f563f1">☨ ♬ ☨  ♬ ☨  </a>
 </div>
    </a>
-
-
- 
 
  
  ![Example GIF](https://i.pinimg.com/originals/10/f5/58/10f558763a9846004ce1c39a5e6dc44b.gif)
