@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" style="filter: grayscale(100%) invert(1);"  />
   </div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" title="Docker" style="filter: grayscale(100%) invert(1);" />
-  </div>
+   </div>
 
 ![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
