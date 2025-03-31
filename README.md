@@ -1,11 +1,8 @@
 #  My name is Alexander 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" title="Java" style="filter: grayscale(100%) invert(1);" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" title="C#" style="filter: grayscale(100%) invert(1);" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" title="PostgreSQL" style="filter: grayscale(100%) invert(1);" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" title="Docker" style="filter: grayscale(100%) invert(1);" />
 
 
