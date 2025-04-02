@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-   <a href="https://music.yandex.ru/playlists/ps.869476ae-5ddb-43d0-9aaf-b5c902f563f1">☨ ♬ ☨  ♬ ☨  </a>
+   <a href="https://music.yandex.ru/users/fedorovsasha.feodorov/playlists/1105?utm_medium=copy_link">☨ ♬ ☨  ♬ ☨  </a>
 </div>
    </a>
 
