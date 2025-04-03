@@ -6,12 +6,10 @@
     <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" title="C#" style="filter: grayscale(100%) invert(1);"  />
     <img width="12" />
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"   alt="Kotlin logo"   title="Kotlin"   style="filter: grayscale(100%) invert(1);" 
-/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" style="filter: grayscale(100%) invert(1);"  />
     <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" title="Docker" style="filter: grayscale(100%) invert(1);" />
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"   alt="Kotlin logo"   title="Kotlin"   style="filter: grayscale(100%) invert(1);" />
    </div>
  <br>
   
