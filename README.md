@@ -14,9 +14,7 @@
    </div>
  <br>
   
-![Fedisan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedisan97&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
-![Fedisan97's Stats](https://github-readme-stats.vercel.app/api?username=Fedisan97&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 
 
 
