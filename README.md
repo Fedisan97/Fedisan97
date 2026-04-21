@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-   <a href="https://music.yandex.ru/users/fedorovsasha.feodorov/playlists/1105?utm_medium=copy_link">☨ ♬ ☨  ♬ ☨  </a>
+   <a href="">☨ ♬ ☨  ♬ ☨  </a>
 </div>
    </a>
 
