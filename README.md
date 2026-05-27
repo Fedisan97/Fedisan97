@@ -3,9 +3,6 @@
 
 ###
 
-<div align="center">
-###
-
 ###
 
 <div align="center">
@@ -46,7 +43,6 @@
   <span style="font-size: 32px;">🪟</span> <span style="font-size: 18px; font-weight: bold;">Avalonia UI</span>
 
 </div>
-
 ###
 
 
