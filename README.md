@@ -45,3 +45,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Fedisan97/Fedisan97/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<img width="800" height="800" alt="норбит" src="https://github.com/user-attachments/assets/9fdf44a1-95c6-41d2-8f9f-41e1266301a0" />
