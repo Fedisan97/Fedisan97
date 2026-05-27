@@ -38,11 +38,12 @@
 
 
 
+
 <p align="center">
- 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fedisan97/Fedisan97/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fedisan97/Fedisan97/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Fedisan97/Fedisan97/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-<img width="1414" height="2000" alt="норбит" src="https://github.com/user-attachments/assets/9fdf44a1-95c6-41d2-8f9f-41e1266301a0" />
