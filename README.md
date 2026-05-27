@@ -6,53 +6,46 @@
 <div align="center">
 ###
 
+###
+
 <div align="center">
   
-  <!-- Языки -->
-  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" title="Python" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <!-- Строка 1: Языки + БД (самая длинная) -->
+  <img src="https://skillicons.dev/icons?i=cs" height="42" title="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="42" title="C++" />
+  <img src="https://skillicons.dev/icons?i=py" height="42" title="Python" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="42" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" title="Java" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" title="MySQL" />
   
   <br/><br/>
   
-  <!-- Базы данных -->
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <!-- Строка 2: Тесты (короткая) -->
+  <img src="https://skillicons.dev/icons?i=jest" height="42" title="Unit Tests" />
   
   <br/><br/>
   
-  <!-- Юнит-тесты -->
-  <img src="https://skillicons.dev/icons?i=jest" height="40" title="Unit Tests" />
+  <!-- Строка 3: Docker + Git (средняя) -->
+  <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" title="GitHub" />
   
   <br/><br/>
   
-  <!-- Docker + Git -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <!-- Строка 4: IDE (длинная) -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="42" title="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="42" title="Neovim" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="42" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
   
   <br/><br/>
   
-  <!-- IDE -->
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" title="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" title="Neovim" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" title="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" title="IntelliJ IDEA" />
-  
-  <br/><br/>
-  
-  <!-- Avalonia -->
-  <img src="https://img.icons8.com/color/48/000000/circled-a.png" height="40" title="Avalonia UI" />
+  <!-- Строка 5: Avalonia (короткая) -->
+  <span style="font-size: 32px;">🪟</span> <span style="font-size: 18px; font-weight: bold;">Avalonia UI</span>
 
 </div>
-
-###
-</div>
-
-###
 
 ###
 
