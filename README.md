@@ -3,33 +3,33 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="42" title="C#" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="42" title="C++" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="42" title="Python" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="42" title="Kotlin" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" title="Java" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" title="MySQL" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="42" title="Visual Studio" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=neovim" height="42" title="Neovim" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="42" title="Android Studio" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=jest" height="42" title="Unit Tests" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker" />
-    <img width="10" />
+    <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="42" title="Git" />
   <br/><br/>
 
