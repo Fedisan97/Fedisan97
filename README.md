@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL" />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" title="MySQL" />
-  
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" />
     <img width="12" />
