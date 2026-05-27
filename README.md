@@ -38,9 +38,7 @@
   <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
   
   <br/><br/>
-  
-  <!-- Строка 5: Avalonia (короткая) -->
-  <span style="font-size: 32px;">🪟</span> <span style="font-size: 18px; font-weight: bold;">Avalonia UI</span>
+  <span style="font-size: 18px; font-weight: bold; margin-left: 12px;">Avalonia UI</span>
 
 </div>
 ###
