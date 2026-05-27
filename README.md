@@ -24,8 +24,6 @@
   
   <br/><br/>
   
-
-  
   <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="42" title="Visual Studio" />
@@ -35,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="42" title="Android Studio" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
+  
   <br/><br/>
   
   <img src="https://skillicons.dev/icons?i=jest" height="42" title="Unit Tests" />
