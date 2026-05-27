@@ -33,9 +33,8 @@
 
 
 
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
-
-
- 
- ![Example GIF](https://i.pinimg.com/originals/10/f5/58/10f558763a9846004ce1c39a5e6dc44b.gif)
 
