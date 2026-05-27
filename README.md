@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <!-- Строка 1: Языки + БД (самая длинная) -->
+
   <img src="https://skillicons.dev/icons?i=cs" height="42" title="C#" />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="42" title="C++" />
@@ -24,14 +24,13 @@
   
   <br/><br/>
   
-  <!-- Строка 2: Тесты (короткая) -->
+
   <img src="https://skillicons.dev/icons?i=jest" height="42" title="Unit Tests" />
-  
-  <br/><br/>
-  
-  <!-- Строка 3: Docker + Git (средняя) -->
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="42" title="Git" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="42" title="GitHub" />
   
   <br/><br/>
