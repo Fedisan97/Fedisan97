@@ -24,6 +24,19 @@
   
   <br/><br/>
   
+
+  
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="42" title="Visual Studio" />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="42" title="Neovim" />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="42" title="Android Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
+  <br/><br/>
+  
   <img src="https://skillicons.dev/icons?i=jest" height="42" title="Unit Tests" />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker" />
@@ -31,15 +44,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="42" title="Git" />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="42" title="GitHub" />
-  
-  <br/><br/>
-  
-  <!-- Строка 4: IDE (длинная) -->
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="42" title="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="42" title="Neovim" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="42" title="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
   
   <br/><br/>
 
