@@ -1,10 +1,7 @@
 # 
  ###
-### 🎓 Сертификаты
-[![Rostec Certificate](https://img.shields.io/badge/Ростец-Кибербезопасность-blue?logo=rocksdb&logoColor=white)](https://your-link.com)
-[![MFA Serbia](https://img.shields.io/badge/Serbia-MFA_Cyber_Diplomacy-red?logo=data:image/svg+xml;base64,...)](link)
-[![SberTech](https://img.shields.io/badge/СберТех-ML_Engineering-green?logo=sber)](link)
-###
+
+
 
 ###
 
