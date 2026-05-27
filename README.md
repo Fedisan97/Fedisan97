@@ -11,11 +11,12 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
- <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo" />
 </div>
 
 ###
