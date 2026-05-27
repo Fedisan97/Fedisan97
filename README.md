@@ -46,4 +46,4 @@
   </picture>
 </p>
 
-<img width="450" height="250" alt="норбит" src="https://github.com/user-attachments/assets/9fdf44a1-95c6-41d2-8f9f-41e1266301a0" />
+<img width="250" height="850" alt="норбит" src="https://github.com/user-attachments/assets/9fdf44a1-95c6-41d2-8f9f-41e1266301a0" />
