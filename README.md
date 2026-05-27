@@ -9,11 +9,17 @@
   
   <!-- Строка 1: Языки + БД (самая длинная) -->
   <img src="https://skillicons.dev/icons?i=cs" height="42" title="C#" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="42" title="C++" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="42" title="Python" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="42" title="Kotlin" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="42" title="Java" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" title="MySQL" />
   
   <br/><br/>
@@ -38,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
   
   <br/><br/>
-  <span style="font-size: 18px; font-weight: bold; margin-left: 12px;">Avalonia UI</span>
+
 
 </div>
 ###
