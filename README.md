@@ -6,8 +6,6 @@
 ###
 
 <div align="center">
-  
-
   <img src="https://skillicons.dev/icons?i=cs" height="42" title="C#" />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="42" title="C++" />
@@ -32,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="42" title="Android Studio" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="42" title="IntelliJ IDEA" />
-  
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=jest" height="42" title="Unit Tests" />
     <img width="12" />
